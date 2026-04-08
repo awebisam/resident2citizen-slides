@@ -1,0 +1,8 @@
+*.py
+.env.local
+
+imgmaker/
+node_modules/
+src/
+
+slides.json
